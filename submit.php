@@ -3,7 +3,7 @@
 	$username = 'kader';
 	$password = 'kader';
 	$hostname = 'kaders-macbook-air.local';
-	$port = 3306;
+	$port = 3336;
 	$dbname = 'db';
 
 	$link = new mysqli($username,$password,$hostname,$dbname,$port);
